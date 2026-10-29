@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222120650419",
+    "project_id": "eventandticketapp",
+    "storage_bucket": "eventandticketapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222120650419:android:aac9fd7875e468589e32c6",
+        "android_client_info": {
+          "package_name": "com.eventexperts.eventandticketmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpvhHoN_cyEJhjMuzQkbx8PP4pa_EhXQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
